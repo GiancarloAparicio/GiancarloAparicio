@@ -60,6 +60,7 @@ https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim
 ![Linux](assets/badges/linux.svg)&nbsp;
 ![TornadoFX](assets/badges/tornadofx.svg)&nbsp;
 ![LaTex](assets/badges/latex.svg)&nbsp;
+![MySql](assets/badges/mysql.svg)&nbsp;
 
 ![Visual Studio Code](assets/badges/vs-code.svg)&nbsp;
 ![Intellij IDEA](assets/badges/intellij-idea.svg)
