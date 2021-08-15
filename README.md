@@ -4,7 +4,7 @@
      align="left"/>
     <h1>Hey there! I'm Erick </h1>
 
-I am a self-taught developer, I like to develop systems respecting SOLID principles and I refactor using patterns.
+I am a self-taught developer.
 
 
 ## 👨🏻‍💻 &nbsp;About Me

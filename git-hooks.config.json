@@ -1,0 +1,32 @@
+{
+  "conventional-commits": {
+    "enabled": true,
+    "length": {
+      "min": 1,
+      "max": 80
+    },
+    "types": [
+      "BUILD",
+      "CI",
+      "DOCS",
+      "IMPROVEMENT",
+      "FEAT",
+      "FIX",
+      "PERF",
+      "REFACTOR",
+      "STYLE",
+      "TEST",
+      "CHORE"
+    ],
+    "scripts": ["git status"]
+  },
+
+  "semantic-versioning": {
+    "enabled": true,
+    "major": [],
+    "minor": ["FEAT", "PERF"],
+    "patch": ["FIX"],
+    "scripts": ["git status"]
+  },
+  "template-commit": "default"
+}
