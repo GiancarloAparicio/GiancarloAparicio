@@ -13,7 +13,7 @@ I am a self-taught developer.
 * 🎓 &nbsp; I am currently studying the last cycles of the Systems Engineering career at the National University of Callao. 
 * ✍️ &nbsp; I am on my way to learn more about systems design and software architecture.
 * 🎻 &nbsp;  In my free time I like to read books or learn a new musical instrument. 
-* ✉️ &nbsp; You can email me at **giancarloaparicio25@gmail.com**! I will try to reply as soon as I can. 
+* ✉️ &nbsp; You can email me at **erickgiancarlo25@gmail.com**! I will try to reply as soon as I can. 
 * 📄 &nbsp; You can check my resume to get more information about me. I am open to comments and suggestions!
 
 
